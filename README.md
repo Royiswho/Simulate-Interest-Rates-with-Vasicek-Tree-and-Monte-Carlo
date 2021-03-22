@@ -1,4 +1,4 @@
-# Calculate Interest Rates with Vasicek Model Tree Construction and Monte Carlo Simulation
+# Simulate Interest Rates with Vasicek Model Tree Construction and Monte Carlo Simulation
  
 ### author: Yi Rong
 ### date: 03/21/21
