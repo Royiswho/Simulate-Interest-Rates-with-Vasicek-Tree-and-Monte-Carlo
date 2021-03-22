@@ -34,7 +34,7 @@ def solver(alpha, exp, dw):
     return r
 ```
 
-Then, the tree can be build under 2 circumstances: 
+Then, the tree can be built under 2 circumstances: 
 in even period or odd period. The code is presented below:
 
 ```{python }
@@ -146,5 +146,5 @@ plt.show()
 <img src="media/image4.png" align="center">
 
 ### Conclusion
-When the simulation times are large enough, the Monte Carlo results will be very close
+When the simulation times are sufficiently large, the Monte Carlo results will be very close
 to the risk-neutral results.
